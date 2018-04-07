@@ -1,0 +1,12 @@
+D:\Projects\NET Project\Notepad\NotepadApplication\NotepadApplication\bin\Debug\NotepadApplication.exe
+D:\Projects\NET Project\Notepad\NotepadApplication\NotepadApplication\bin\Debug\NotepadApplication.pdb
+D:\Projects\NET Project\Notepad\NotepadApplication\NotepadApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\NET Project\Notepad\NotepadApplication\NotepadApplication\obj\x86\Debug\NotepadApplication.Form1.resources
+D:\Projects\NET Project\Notepad\NotepadApplication\NotepadApplication\obj\x86\Debug\NotepadApplication.Properties.Resources.resources
+D:\Projects\NET Project\Notepad\NotepadApplication\NotepadApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\NET Project\Notepad\NotepadApplication\NotepadApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\NET Project\Notepad\NotepadApplication\NotepadApplication\obj\x86\Debug\NotepadApplication.exe
+D:\Projects\NET Project\Notepad\NotepadApplication\NotepadApplication\obj\x86\Debug\NotepadApplication.pdb
+D:\Projects\NET Project\Notepad\NotepadApplication\NotepadApplication\obj\x86\Debug\NotepadApplication.Find.resources
+C:\Users\HP\Downloads\NotepadApplication\NotepadApplication\NotepadApplication\obj\x86\Debug\NotepadApplication.exe
+F:\New Project\NotepadApplication\NotepadApplication\NotepadApplication\obj\x86\Debug\NotepadApplication.exe
